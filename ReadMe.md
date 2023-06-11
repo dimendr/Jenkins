@@ -1,2 +1,1 @@
-# Pure python QR Code generator
-#its true
+# Pure python QR Code generate
